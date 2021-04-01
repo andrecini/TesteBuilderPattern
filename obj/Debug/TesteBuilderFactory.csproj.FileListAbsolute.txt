@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\TesteBuilderFactory\obj\Debug\TesteBuilderFactory.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\TesteBuilderFactory\obj\Debug\TesteBuilderFactory.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\TesteBuilderFactory\bin\Debug\TesteBuilderFactory.exe.config
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\TesteBuilderFactory\bin\Debug\TesteBuilderFactory.exe
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\TesteBuilderFactory\bin\Debug\TesteBuilderFactory.pdb
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\TesteBuilderFactory\obj\Debug\TesteBuilderFactory.exe
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\TesteBuilderFactory\obj\Debug\TesteBuilderFactory.pdb
